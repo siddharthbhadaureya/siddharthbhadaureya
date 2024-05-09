@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth Bhadaureya
 - 👀 I’m interested in python and C-language.
-- 🌱 I’m currently learning C-programming
+- 🌱 I’m currently learning C-programming, Java.
 - 💞️ I’m looking to collaborate on python and c-projects
 - 📫 How to reach me 
 
