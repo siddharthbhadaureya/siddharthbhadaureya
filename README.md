@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharthbhadaureya
+- 👋 Hi, I’m Siddharth Bhadaureya
 - 👀 I’m interested in python and C-language.
 - 🌱 I’m currently learning C-programming
 - 💞️ I’m looking to collaborate on python and c-projects
